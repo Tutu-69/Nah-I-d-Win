@@ -72,6 +72,20 @@ Pilha:
 O padrão de pilha (Stack) em programação segue o princípio "último a entrar, primeiro a sair" (LIFO - Last-In-First-Out). Isso significa que o último elemento adicionado à pilha será o primeiro a ser removido. 
 O padrão de pilha é comumente utilizado em programação para realizar operações como desfazer ações (undo), rastreamento de chamadas de função, análise de expressões matemáticas e muito mais.
 
+Stack<String> pilha = new Stack<>();
+
+pilha.push("Elemento 1");
+pilha.push("Elemento 2");
+pilha.push("Elemento 3");
+
+System.out.println("Topo da pilha: " + pilha.peek());
+
+while(!pilha.isEmpty()) {
+String elementoRemovido = pilha.pop();
+System.out.println("Elemento removido: " + elementoRemovido);
+}
+
+System.out.println("A pilha esta vazia?" + pilha.isEmpty();
 
 
 
