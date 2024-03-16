@@ -14,6 +14,11 @@ ArrayList é uma lista redimensionável que é baseada em um array regular. Isso
   - Exemplo de Uso: Vamos supor que temos uma lista de compra, e vamos adicionando itens na lista de compras, a cada item, uma nova posição é criada dentro do ArrayList, diferente de um vetor.
 
 # LinkedList
+LinkedList é uma estrutura de dados em Java que implementa a interface List. Ela é composta por uma sequência de elementos chamados "nós", onde cada nó armazena o próprio valor e uma referência ao próximo nó na sequência.
+* Mais Estruturado.
+* Flexibilidade.
 
 # HashMap
-
+HashMap é uma estrutura de dados em Java que implementa a interface Map. É uma das estruturas de dados mais usadas para mapeamento de chaves para valores.
+* Sinceramente é a estrutura de dados com mais facilidade de procurar o valor que quer, por conta do chaveamento.
+* Maior Eficiência.
