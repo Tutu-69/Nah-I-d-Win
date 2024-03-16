@@ -8,6 +8,8 @@ Vetores são estruturas de dados que armazenam usualmente uma quantidade fixa de
 
 # ArrayList
 ArrayList é uma lista redimensionável que é baseada em um array regular. Isso significa que você pode adicionar e remover elementos dinamicamente e acessar os elementos por meio de seus índices.
+* Pode conter null.
+* É possivel modificar com mais facilidade.
 
 # LinkedList
 
