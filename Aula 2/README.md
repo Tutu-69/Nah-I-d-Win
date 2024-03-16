@@ -11,6 +11,8 @@ ArrayList é uma lista redimensionável que é baseada em um array regular. Isso
 * Pode conter null.
 * É possivel modificar com mais facilidade.
 
+  - Exemplo de Uso: Vamos supor que temos uma lista de compra, e vamos adicionando itens na lista de compras, a cada item, uma nova posição é criada dentro do ArrayList, diferente de um vetor.
+
 # LinkedList
 
 # HashMap
