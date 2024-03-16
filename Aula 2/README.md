@@ -18,7 +18,11 @@ LinkedList é uma estrutura de dados em Java que implementa a interface List. El
 * Mais Estruturado.
 * Flexibilidade.
 
+  - Exemplo de Uso: Vamos supor em um restaurante, e tem varios pedidos, quando um pedido é processado e entregue, graças aos métodos da LinkedList, você não precisa criar um método novo, já que existe métodos para remoção e adição.
+
 # HashMap
 HashMap é uma estrutura de dados em Java que implementa a interface Map. É uma das estruturas de dados mais usadas para mapeamento de chaves para valores.
 * Sinceramente é a estrutura de dados com mais facilidade de procurar o valor que quer, por conta do chaveamento.
 * Maior Eficiência.
+
+  - Exemplo de Uso: Vamos supor que temos o nome de alguém e seu CPF, CPF é algo único, logo podemos usar como chave para encontrar o nome da pessoa que possui aquele CPF.
